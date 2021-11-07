@@ -1,0 +1,2 @@
+A sample React application . Click on STATIC, RESPONSIVE AND DYNAMIC TABS TO
+FILTER PROJECTS
