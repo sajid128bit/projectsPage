@@ -115,6 +115,7 @@ class App extends Component {
               key={tabDetails.tabId}
               tabDetails={tabDetails}
               changeTab={this.changeTab}
+              activeTabId={tabSelected === tabDetails.tabId}
             />
           ))}
         </ul>
